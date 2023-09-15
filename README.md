@@ -3,7 +3,7 @@
 Welcome to the Bug Bounty Beginner's Roadmap repository!
 
   [![HitCount](https://hits.dwyl.com/dragonked2/Roadmap.svg?style=flat-square)](http://hits.dwyl.com/dragonked2/Roadmap)
-
+[![Join our Facebook Group](https://img.shields.io/badge/Join%20Us%20on%20Facebook-egyscan-1.svg)](https://www.facebook.com/groups/egyscan/)
 ## Introduction
 
 Hi! I'm !!**Ali Essam**!!, a Security Engineer and part-time content creator. This repository is a collaborative effort to guide aspiring bug bounty hunters in kickstarting their careers. The bug bounty landscape has evolved significantly in recent years, demanding determination, consistency, and focus due to increased competition and automation.
